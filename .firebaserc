@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "login-neurosapiens": {
+      "hosting": {
+        "proyecto3": [
+          "login-neurosapiens"
+        ]
+      }
+    }
+  }
+}
